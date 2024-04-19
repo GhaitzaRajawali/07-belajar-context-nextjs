@@ -14,3 +14,6 @@ OUTPUT
 Jika terjadi error, silakan perbaiki, Mengapa hal itu bisa terjadi? Jelaskan!
 Answer : Karena harus menggunakan use client pada main page.
 
+W07 Jawaban soal 3
+OUTPUT
+![Praktikum_3](assets/image/W07_Jawaban_soal_3.png)
