@@ -17,3 +17,7 @@ Answer : Karena harus menggunakan use client pada main page.
 W07 Jawaban soal 3
 OUTPUT
 ![Praktikum_3](assets/image/W07_Jawaban_soal_3.png)
+
+W07: Jawaban soal 4
+OUTPUT
+![Praktikum_4](assets/image/W07_Jawaban_soal_4.png)
